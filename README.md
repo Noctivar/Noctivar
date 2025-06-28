@@ -1,5 +1,5 @@
 # 💫 About Me:
-New to CS.<br> Triple majoring in Pure Math, Theoretical Physics, and English Literature. <br> Triple major, quadruple stress, quintuple caffeine intake
+New to CS.<br> Triple majoring in Pure Math, Theoretical Physics, and English Literature. 
 <br>Building Aegis.<br>
 
 # 💻 Tech Stack:
